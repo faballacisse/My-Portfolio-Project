@@ -2587,7 +2587,7 @@ input[type="submit"].button-white:focus {
     content: "\e73d";
 }
 
-.cisse-social-menu a[href*="linkedin.com"] .cisse-ti:before {
+.cisse-social-menu a[href*="https://www.linkedin.com/in/faballa-cisse/"] .cisse-ti:before {
     content: "\e735";
 }
 
@@ -2603,6 +2603,9 @@ input[type="submit"].button-white:focus {
     content: "\e728";
 }
 
+.cisse-social-menu a[href*="youtube.com"] .cisse-ti:before {
+    content: "\e728";
+}
 
 /* 10. Additional Menu Content */
 
